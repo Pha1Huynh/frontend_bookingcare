@@ -1,0 +1,26 @@
+.medical-facilites-container {
+
+
+    .section-container {
+
+        .section-header {}
+
+        .section-body {
+            .img-customize {
+                &:hover {
+                    .clinic-name {
+                        color: #0056b3;
+                    }
+
+                }
+
+                .clinic-name {
+                    color     : black;
+                    margin-top: 6px;
+                }
+
+            }
+        }
+    }
+
+}
